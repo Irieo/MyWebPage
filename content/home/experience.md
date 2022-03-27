@@ -32,9 +32,9 @@ experience:
     description: |2-
       Since 03.2022, I have joined the [ENSYS @ TU Berlin](https://tub-ensys.github.io/) group as a research scientist.
       
-      The ENSYS a group of energy system modelers researching the most cost-effective pathways to reduce greenhouse gas emissions in energy systems. ENSYS staff maintain the [PyPSA ecosystem](https://pypsa.org/#about) - an open-source python environment for state-of-the-art energy system modelling. 
+      The ENSYS is a group of energy system modelers researching the most cost-effective pathways to reduce greenhouse gas emissions in energy systems. ENSYS staff maintains the [PyPSA ecosystem](https://pypsa.org/#about) - an open-source python environment for state-of-the-art energy system modelling. 
       
-      My work will mainly be focused on our team's contribution to the  [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project funded by Google.
+      My work is mainly focused on our team's contribution to the  [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project funded by Google.
         
   - title: Research fellow | PhD student
     company: Brandenburg University of Technology
@@ -50,7 +50,7 @@ experience:
       
       Together with my PhD supervisor, we developed a study course at BTU, named ‘Energy systems modelling’. The class focuses on the intersection of energy economics, operations research and systems modelling. The teaching materials are [available on GitHub](https://github.com/Irieo/EnergySystemsModelling-course). The course gets usually very warm feedback from students.
       
-      In Autumn 2019, I did a research stay in a [Sustainable Energy Systems Integration & Transitions Group headed by Dr. Madeleine McPherson at UVIC](https://sesit.cive.uvic.ca/), Victoria BC. My work there focused on robust optimization algorithms applied to electricity system expansion problems. Victoria BC is simply a fantastic place.
+      In Autumn 2019, I did a research stay in a [Sustainable Energy Systems Integration & Transitions Group headed by Dr. Madeleine McPherson at UVIC](https://sesit.cive.uvic.ca/), Victoria BC, Canada. My work there focused on robust optimization algorithms applied to electricity system expansion problems. Victoria BC is simply a fantastic place.
 
 design:
   columns: '2'

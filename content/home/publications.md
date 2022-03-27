@@ -10,7 +10,7 @@ headless: true
 weight: 80
 
 title: Research
-subtitle: 'Papers | preprints | code | data'
+subtitle: 'papers | preprints | code | data'
 
 content:
   # Filter on criteria
