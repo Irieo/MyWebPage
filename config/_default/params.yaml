@@ -77,13 +77,13 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false
 copyright_license:
   enable: true
   allow_derivatives: true
   share_alike: true
   allow_commercial: true
-  notice: '2022 © Iegor Riepin. This work is licensed under {license}'
+  notice: '© 2022 Iegor Riepin | {license}'
 abstract_length: 135
 plugins_js: []
 avatar:
