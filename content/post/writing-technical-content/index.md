@@ -35,6 +35,3 @@ Home observatory-on-balcony in Cottbus, Germany.
 - Integration: ca. 3 hours; 300" exposure per image all filters.
 - Software PixInsight, Stellarium
 
-### Rights Statement	
-
-This image is licensed for use under a Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
