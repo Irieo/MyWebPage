@@ -1,5 +1,6 @@
 ---
 bio: My research interests include energy economics, mathematical modelling, and energy-related programmable matter. 
+
 education:
   courses:
   - course: PhD in Energy Economics
@@ -17,7 +18,7 @@ interests:
 - Energy economics
 - Mathematical models
 - Modelling for insight
-- Open science
+- Optimization
 
 
 organizations:
@@ -43,8 +44,10 @@ superuser: true
 title:
 ---
 
-I am a researcher at the Department of [**Digital Transformation in Energy Systems (ENSYS)**](https://tub-ensys.github.io/) @ TU Berlin. 
+Welcome! I am a researcher at the Department of [**Digital Transformation in Energy Systems (ENSYS)**](https://tub-ensys.github.io/) @ TU Berlin. 
 
-My research stands at the intersection of economics and operations research. My objective is to provide empirical and computational evidence to guide public- and private sector stakeholders in dealing with new and emerging challenges of energy transition.
+My research stands at the intersection of economics and operations research. My objective is to provide empirical and computational evidence to guide public- and private sector stakeholders in dealing with new and emerging challenges of energy transition. 
 
 I believe in open science, and I try to contribute by sharing my code, data and teaching materials.
+
+Aside of my research, I enjoy reading about space exploration, related scientific discoveries or just good sci-fi books. Feel free to reach me out if you share same interests.
