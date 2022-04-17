@@ -30,8 +30,9 @@ Home observatory-on-balcony in Cottbus, Germany.
 - Mount:	SW HEQ5 PRO
 - Camera:	ZWO ASI-294MM
 - Filters:	ZWO Ha, OIII, SII (7nm)
-- Guiding:	WO 50mm f/4 Guide Scope and ASI120MM-Mini 
+- Guiding:	WO 50mm f/4 Guide Scope and ASI120MM-Mini
+- Other tech: ZWO EFW, ZWO EAF 
 - Imaging @ Gain: 120 | Cooling:	-10C | Bin1 (8288*5644px)
-- Integration: ca. 3 hours; 300" exposures per image all filters.
+- Integration: ca. 4 hours; 300" exposures per image all filters.
 - Software: PixInsight, Stellarium
 
