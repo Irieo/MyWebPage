@@ -1,5 +1,5 @@
 ---
-title: European gas infrastructure expansion planning | an adaptive robust optimization approach
+title: Adaptive robust optimization for European strategic gas infrastructure planning
 
 summary: We use adaptive robust optimization to explore the value of Projects of Common Interest—gas infrastructure projects supported by EU public funds—in maintaining gas system resilience amid cold-winter demand spikes, supply shortages, and budget constraints
 
