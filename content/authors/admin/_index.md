@@ -28,7 +28,7 @@ role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:iegor.riepin@gmail.com"
+  link: "mailto:iegor.riepin@tu-berlin.de"
 - display:
     header: true
 - icon: graduation-cap
