@@ -50,4 +50,4 @@ My research stands at the intersection of economics and operations research. My 
 
 I believe in open science, and I try to contribute by sharing my code, data and teaching materials.
 
-Aside of my research, I enjoy reading about space exploration, related scientific discoveries or just good sci-fi books. Feel free to reach me out if you share same interests.
+Aside of my research, I enjoy astrophotography, reading about space exploration, related scientific discoveries or just good sci-fi books.

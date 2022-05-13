@@ -10,7 +10,7 @@ headless: true
 weight: 100
 
 title: Blog
-subtitle: The final fight between curiosity and procrastination
+subtitle: space | pet projects | misc
 
 content:
   # Filter on criteria
