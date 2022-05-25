@@ -25,17 +25,17 @@ image:
   focal_point: ""
   preview_only: false
   
-publication: '*arxiv.org*'
+publication: 'Energy Policy'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 
-doi:
+doi: https://doi.org/10.1016/j.enpol.2022.113000
 url_code:
-url_dataset:
+url_dataset: https://zenodo.org/record/6524754
 url_pdf: 
 url_preprint:
-links:
+links: 
 - name: Working paper
   url: https://arxiv.org/abs/2202.12548
 slides:
