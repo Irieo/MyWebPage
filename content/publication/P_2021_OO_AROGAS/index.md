@@ -11,8 +11,8 @@ authors:
 - Luis Baringo
 - Felix Müsgens 
 
-date: "2022-10-25T00:00:00Z"
-publishDate: "2022-10-15"
+date: 2022-08-31
+publishDate: "2022-08-01"
 featured: false
 
 image:
