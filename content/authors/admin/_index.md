@@ -5,7 +5,7 @@ education:
   courses:
   - course: PhD in Energy Economics
     institution: Brandenburg University of Technology
-    year: tba
+    year: 2022
   - course: MSc in Power Engineering
     institution: Brandenburg University of Technology
     year: 2014
@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: ENSYS @ TU Berlin
   url: https://tub-ensys.github.io/
-role: Researcher
+role: Postdoc researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,8 +46,8 @@ title:
 
 Welcome! I am a researcher at the Department of [**Digital Transformation in Energy Systems (ENSYS)**](https://tub-ensys.github.io/) @ TU Berlin. 
 
-My research stands at the intersection of economics and operations research. My objective is to provide empirical and computational evidence to guide public- and private sector stakeholders in dealing with new and emerging challenges of energy transition. 
+My research stands at the intersection of economics and operations research. The overarching goal is to provide empirical and computational evidence to guide public- and private sector stakeholders in dealing with challenges of energy transition. Generally, I enjoy using mathematical models to compute some stuff. 
 
 I believe in open science, and I try to contribute by sharing my code, data and teaching materials.
 
-Aside of my research, I enjoy astrophotography, reading about space exploration, related scientific discoveries or just good sci-fi books.
+Aside of my research, I enjoy astrophotography, reading about space exploration, related discoveries and just good sci-fi books.

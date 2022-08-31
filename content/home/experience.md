@@ -44,9 +44,9 @@ experience:
     date_start: '2014-10-01'
     date_end: '2022-02-28'
     description: |2-
-      In the period of 10.2014 - 02.2022, I was a research fellow at the [Chair of Energy Economics at BTU](https://www.b-tu.de/en/fg-energiewirtschaft/page). I have carried out research on energy economics & energy systems modeling. The topics included infrastructure investments, decisions under uncertainty, risk-aversion, sector coupling (power- and gas) and energy auctions. In this period, I was also involved in the acquisition and implementation of third-party research projects with energy industry and government stakeholders.
+      In the period of 10.2014 - 02.2022, I was a research fellow at the [Chair of Energy Economics at BTU](https://www.b-tu.de/en/fg-energiewirtschaft/page). I have carried out research on energy economics & energy systems modeling. The topics included infrastructure investments, decisions under uncertainty, risk-aversion, sector coupling and energy auctions. In this period, I was also involved in the acquisition and implementation of third-party research projects with energy industry and government stakeholders.
       
-      I worked on my PhD under supervision of [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder). My cumulative PhD thesis is titled '*Modeling challenges of modern energy markets: studies on uncertainty, complexity, and constant change*'. Currently, I am waiting for a defence date. I will make thesis available for download here after the defence.
+      I finished my PhD under supervision of [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder). My cumulative PhD thesis is titled '*Modeling challenges of modern energy markets: studies on uncertainty, complexity, and constant change*' and is [published in open access](https://doi.org/10.26127/BTUOpen-5976).
       
       Together with my PhD supervisor, we developed a study course at BTU, named ‘Energy systems modelling’. The class focuses on the intersection of energy economics, operations research and systems modelling. The teaching materials are [available on GitHub](https://github.com/Irieo/EnergySystemsModelling-course). The course gets usually very warm feedback from students.
       
