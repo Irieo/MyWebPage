@@ -30,11 +30,12 @@ experience:
     date_start: '2022-03-07'
     date_end: ''
     description: |2-
+    
       Since 03.2022, I have joined the [ENSYS @ TU Berlin](https://tub-ensys.github.io/) group as a research scientist.
       
       The ENSYS is a group of energy system modelers researching the most cost-effective pathways to reduce greenhouse gas emissions in energy systems. ENSYS staff maintains the [PyPSA ecosystem](https://pypsa.org/#about) - an open-source python environment for state-of-the-art energy system modelling. 
       
-      My work is mainly focused on our team's contribution to the  [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project funded by Google.
+      My work is mainly focused on the  [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project funded by Google.
         
   - title: Research fellow | PhD student
     company: Brandenburg University of Technology
@@ -44,11 +45,11 @@ experience:
     date_start: '2014-10-01'
     date_end: '2022-02-28'
     description: |2-
-      In the period of 10.2014 - 02.2022, I was a research fellow at the [Chair of Energy Economics at BTU](https://www.b-tu.de/en/fg-energiewirtschaft/page). I have carried out research on energy economics & energy systems modeling. The topics included infrastructure investments, decisions under uncertainty, risk-aversion, sector coupling and energy auctions. In this period, I was also involved in the acquisition and implementation of third-party research projects with energy industry and government stakeholders.
+      In the period of 10.2014 - 02.2022, I was a research fellow at the [Chair of Energy Economics at BTU](https://www.b-tu.de/en/fg-energiewirtschaft/page). I have carried out research on energy economics & energy systems modeling. The topics included infrastructure investments, decisions under uncertainty, risk-aversion, sector coupling and energy auctions. I was also involved in the acquisition and implementation of third-party research projects with energy industry and government stakeholders.
       
       I finished my PhD under supervision of [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder). My cumulative PhD thesis is titled '*Modeling challenges of modern energy markets: studies on uncertainty, complexity, and constant change*' and is [published in open access](https://doi.org/10.26127/BTUOpen-5976).
       
-      Together with my PhD supervisor, we developed a study course at BTU, named ‘Energy systems modelling’. The class focuses on the intersection of energy economics, operations research and systems modelling. The teaching materials are [available on GitHub](https://github.com/Irieo/EnergySystemsModelling-course). The course gets usually very warm feedback from students.
+      In this period, my PhD supervisor and I developed a study course at BTU, named ‘Energy systems modelling’. The class focuses on the intersection of energy economics, operations research and systems modelling. The teaching materials are [available on GitHub](https://github.com/Irieo/EnergySystemsModelling-course). The course gets usually very warm feedback from students.
       
       In Autumn 2019, I did a research stay in a [Sustainable Energy Systems Integration & Transitions Group headed by Dr. Madeleine McPherson at UVIC](https://sesit.cive.uvic.ca/), Victoria BC, Canada. My work there focused on robust optimization algorithms applied to electricity system expansion problems. Victoria BC is simply a fantastic place.
 
