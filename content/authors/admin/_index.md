@@ -1,5 +1,5 @@
 ---
-bio: My research interests include energy economics, mathematical modelling, and energy-related programmable matter. 
+bio: My research interests include energy economics, energy policy, operations research, and related programmable matter.
 
 education:
   courses:
@@ -15,11 +15,11 @@ education:
 email: ""
 highlight_name: true
 interests:
-- Energy economics
 - Mathematical models
 - Modelling for insight
-- Optimization
-
+- Operations research
+- Energy economics
+- Energy policy
 
 organizations:
 - name: ENSYS @ TU Berlin
@@ -40,14 +40,13 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/iegor-riepin/
-superuser: true
-title:
+- icon: id-card 
+  icon_pack: fas
+  link: https://iriepin.com/uploads/CV_IRiepin.pdf
 ---
 
-Welcome! I am a researcher at the Department of [**Digital Transformation in Energy Systems (ENSYS)**](https://tub-ensys.github.io/) @ TU Berlin. 
+Welcome! I am a research scientist with expertise in energy economics, energy policy, operations research, and related programmable matter. I am particularly interested in mathematical models, their applications to real world problems, their limitations, and their impacts on decision making.
 
-My research stands at the intersection of economics and operations research. The overarching goal is to provide empirical and computational evidence to guide public- and private sector stakeholders in dealing with challenges of energy transition. Generally, I enjoy using mathematical models to compute some stuff. 
+Currently I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) @ TU Berlin. The overarching goal of our work is to find cost-effective opportunities for climate neutrality. 
 
-I believe in open science, and I try to contribute by sharing my code, data and teaching materials.
-
-Aside of my research, I enjoy astrophotography, reading about space exploration, related discoveries and just good sci-fi books.
+Aside from my research, I enjoy astrophotography, reading about space exploration, related discoveries and just good sci-fi books. I believe in the value of open science, and I try to contribute by sharing my research code, data and teaching materials.
