@@ -11,8 +11,8 @@ authors:
 - Felix Müsgens 
 - Adriaan H. van der Weijde
 
-date: "2021-10-08T00:00:00Z"
-publishDate: "2021-10-08"
+date: "2023-10-01T00:00:00Z"
+publishDate: "2023-10-01"
 featured: false
 
 image:
@@ -23,10 +23,10 @@ image:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 
 
-doi:
+doi: https://doi.org/10.1016/j.eneco.2023.106767
 url_code: https://github.com/BTU-EnerEcon/RiskAv
 url_dataset:
 url_pdf: 
