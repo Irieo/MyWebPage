@@ -26,6 +26,6 @@ main:
   - name: ~/blog
     url: '#posts'
     weight: 50
-  - name: ~/resume
+  - name: ~/CV
     url: 'uploads/CV_IRiepin.pdf'
     weight: 70
