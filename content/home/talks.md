@@ -11,7 +11,7 @@ headless: true
 weight: 70
 
 title: 'Talks'
-subtitle: 'Slides and recordings for recent talks | podcasts | workshops'
+subtitle: 'slides | recordings'
 
 content:
   # Page type to display. E.g. post, event, publication...
