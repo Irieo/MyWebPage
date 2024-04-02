@@ -18,7 +18,7 @@ featured: false
 links:
   - icon: file-pdf
     icon_pack: fas
-    name: Slides (Eurelectric 24/7 CFE Hub workshop)
+    name: Slides (DTU Cool Data project final workshop)
     url: uploads/CoolDataWorkshop_20240220.pdf
   - icon: github
     icon_pack: fab
