@@ -28,10 +28,12 @@ doi:
 url_code: https://github.com/Irieo/247-procurement-paper
 url_dataset:
 url_pdf: 
-url_preprint: https://zenodo.org/records/10407830
-# links:
-# - name: Working paper 
-#   url: https://zenodo.org/doi/10.5281/zenodo.10407830
-# slides:
+url_preprint:
+links:
+- name: Zenodo record
+  url: https://zenodo.org/records/10407831
+- name: arXiv
+  url: https://arxiv.org/abs/2403.07876
+slides:
 ---
 

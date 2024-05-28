@@ -31,8 +31,10 @@ url_dataset:
 url_pdf: 
 url_preprint: 
 links:
-- name: Working paper 
+- name: Zenodo record
   url: https://zenodo.org/records/10869649
+- name: arXiv
+  url: https://arxiv.org/abs/2405.00036 
 - name: LinkedIn post
   url: https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/
 - name: Talk @ DTU Cool data workshop
