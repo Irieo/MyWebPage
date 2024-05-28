@@ -31,13 +31,15 @@ experience:
     date_end: ''
     description: |2-
     
-      Since 03.2022, I have joined the [ENSYS @ TU Berlin](https://tub-ensys.github.io/) group as a research scientist. We use methods from operations research and mathematical optimization researching the most cost-effective pathways to reduce greenhouse gas emissions in energy systems. Our group maintains the [PyPSA ecosystem](https://pypsa.org/#about) - an open-source python environment for state-of-the-art energy system modelling. 
+      Since early 2022, I joined the [ENSYS @ TU Berlin](https://tub-ensys.github.io/) group as a research scientist. We use methods from operations research and mathematical optimization researching the most cost-effective pathways to reduce greenhouse gas emissions in energy systems. Our group maintains the [PyPSA ecosystem](https://pypsa.org/#about) - an open-source python environment for state-of-the-art energy system modelling. 
       
-      Currently, my work is mainly focused on the [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project, which is a research collaboration with Google.  
-      Visit project webpage for detailed insights about our research: [https://irieo.github.io/247cfe.github.io/](https://irieo.github.io/247cfe.github.io/)  
-      This research work is open and reproducible: [https://github.com/PyPSA/247-cfe](https://github.com/PyPSA/247-cfe)
+      In 2022-2024 my work was focused on the [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project, in a collaboration with Google. Project webpage -- [247cfe.github.io](https://irieo.github.io/247cfe.github.io/) -- tracks history of all work we did for this project. This research work is open and reproducible: [github.com/PyPSA/247-cfe](https://github.com/PyPSA/247-cfe)
 
-  - title: Research fellow | Energy Systems Modelling lead
+      Since Q2 2024, I work on the [RESILIENT](https://resilient-project.github.io/) research project, financed by the public funds. The project aims to improve our abilities to plan energy infrastructure in a resilient way.
+
+      Aside my research, I contribute to the [Green Deal Ukraїna](https://greendealukraina.org/) project that aims to set up a Think Tank that will provide modelling-based support for Ukrainian governmental institutions, policymakers, and society in rebuilding the Ukrainian economy and energy sector during and after this [terrible war](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine).
+
+  - title: Research fellow | Energy Systems Modelling lead  
     company: Brandenburg University of Technology
     company_url: 'https://www.b-tu.de/en/fg-energiewirtschaft/'
     company_logo: 
@@ -57,7 +59,7 @@ experience:
     description: |2-
       In the period of end 2014 - early 2022, I was a research fellow at the [Chair of Energy Economics](https://www.b-tu.de/en/fg-energiewirtschaft/page) at Brandenburg University of Technology. I have carried out research on energy economics and energy systems modeling. The topics included infrastructure investments, decisions under uncertainty, robust planning of energy systems, risk-aversion, sector coupling and energy auctions.
       
-      In this period, I completed my PhD in energy economics under supervision of [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder). My cumulative thesis is titled '*Modeling challenges of modern energy markets: studies on uncertainty, complexity, and constant change*' and is published in [open access](https://doi.org/10.26127/BTUOpen-5976).
+      In this period, I completed my PhD in energy economics (Summa cum laude) under supervision of [Prof. Felix Müsgens](https://www.b-tu.de/en/fg-energiewirtschaft/team/chairholder). My cumulative thesis is titled '*Modeling challenges of modern energy markets: studies on uncertainty, complexity, and constant change*' and is published in [open access](https://doi.org/10.26127/BTUOpen-5976).
       
       My PhD supervisor and I developed a study course at BTU, named ‘Energy systems modelling’. The class focuses on the intersection of energy economics, operations research and energy modelling. The course gets usually very warm feedback from students. Some of the teaching materials are available on the [GitHub repository](https://github.com/Irieo/EnergySystemsModelling-course). 
       
