@@ -19,7 +19,7 @@ links:
   - icon: file-pdf
     icon_pack: fas
     name: Slides (Hydrogen and PPA regulation workshop)
-    url: uploads/20240704_DTUWorkshop.pdf
+    url: uploads/20240704_H2Workshop.pdf
   - icon: github
     icon_pack: fab
     name: Code (space-time-optimization)
