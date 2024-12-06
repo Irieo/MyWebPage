@@ -4,10 +4,10 @@ title: Introduction to flexibility in a renewables-based energy system and 24/7 
 event: RGI "Connecting Energies" -- a training series for European civil society
 location: Online event
 
-date: '2024-06-12'
+date: '2024-12-06'
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-12'
+publishDate: '2024-12-06'
 
 authors: []
 tags: []
