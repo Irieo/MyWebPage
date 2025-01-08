@@ -23,12 +23,12 @@ image:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "1"
 
 doi:
 url_code:  https://github.com/Irieo/space-time-optimization
 url_dataset: 
-url_pdf: 
+url_pdf: https://doi.org/10.1016/j.adapen.2024.100202
 url_preprint: 
 links:
 - name: Zenodo record

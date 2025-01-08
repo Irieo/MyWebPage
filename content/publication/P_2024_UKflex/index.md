@@ -27,13 +27,13 @@ image:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "1"
 
 
 doi:
 url_code:
 url_dataset:
-url_pdf:
+url_pdf: https://doi.org/10.1016/j.apenergy.2024.124522
 url_preprint: 
 links:
 - name: Working paper 

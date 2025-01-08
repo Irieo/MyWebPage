@@ -16,6 +16,10 @@ tags: []
 featured: false
 
 links:
+  - icon: youtube
+    icon_pack: fab
+    name: YouTube
+    url: https://youtu.be/MCaZCWfPtk8?t=2193
   - icon: file-pdf
     icon_pack: fas
     name: Slide deck
