@@ -11,8 +11,8 @@ authors:
 - Victor M. Zavala
 
 
-date: "2024-03-25T00:00:00Z"
-publishDate: "2024-03-25"
+date: "2025-01-13T00:00:00Z"
+publishDate: "2025-01-13"
 featured: false
 
 image:
@@ -35,10 +35,14 @@ links:
   url: https://zenodo.org/records/10869649
 - name: arXiv
   url: https://arxiv.org/abs/2405.00036 
-- name: LinkedIn post
+- name: LinkedIn post (working paper)
   url: https://www.linkedin.com/feed/update/urn:li:activity:7178318557603143680/
+- name: LinkedIn post (journal article)
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7284514786631925761/
 - name: Talk @ DTU Cool data workshop
   url: uploads/CoolDataWorkshop_20240220.pdf
+- name: BlueSky thread
+  url: https://bsky.app/profile/iriepin.bsky.social/post/3lfmyzekjlc2p
 # slides:
 ---
 
