@@ -21,10 +21,10 @@ image:
   focal_point: ""
   preview_only: false
   
-publication: ""
+publication: "Nature Scientific Data"
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 
 
 doi:

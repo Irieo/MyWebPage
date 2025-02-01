@@ -21,16 +21,16 @@ image:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 
 
-doi:
+doi: https://doi.org/10.1016/j.esr.2024.101488
 url_code: https://github.com/Irieo/247-procurement-paper
 url_dataset:
 url_pdf: 
 url_preprint:
 links:
-- name: Zenodo record
+- name: Zenodo preprint
   url: https://zenodo.org/records/10407831
 - name: arXiv
   url: https://arxiv.org/abs/2403.07876

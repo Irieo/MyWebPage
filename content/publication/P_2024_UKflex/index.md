@@ -24,10 +24,10 @@ image:
   focal_point: ""
   preview_only: false
   
-publication: ""
+publication: "Applied Energy"
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 
 
 doi:

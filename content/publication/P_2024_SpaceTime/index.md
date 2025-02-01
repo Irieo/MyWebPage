@@ -20,10 +20,10 @@ image:
   focal_point: ""
   preview_only: false
   
-publication: ""
+publication: "*Advances in Applied Energy*"
 publication_short: ""
 publication_types:
-- "1"
+- "2"
 
 doi:
 url_code:  https://github.com/Irieo/space-time-optimization

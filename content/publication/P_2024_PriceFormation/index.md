@@ -19,7 +19,7 @@ image:
   focal_point: ""
   preview_only: false
   
-publication: ""
+publication: "*in review*"
 publication_short: ""
 publication_types:
 - "3"
