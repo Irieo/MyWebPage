@@ -45,8 +45,8 @@ social:
   link: https://iriepin.com/uploads/CV_IRiepin.pdf
 ---
 
-Welcome! I am a research scientist with expertise in energy economics, energy policy, operations research, and related programmable matter. I am particularly interested in mathematical models, their applications to real world problems, their limitations, and their impacts on decision making.
+Welcome! I am a research scientist specializing in energy economics, energy policy, operations research, and programmable matter. My work focuses particularly on mathematical models in the energy field---their applications to real-world problems, their limitations, and their impact on decision-making. I believe in the value of open science and try to to contribute by sharing my research code, data, and teaching materials.
 
-Currently I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) @ TU Berlin. The overarching goal of our work is to find cost-effective opportunities for climate neutrality. 
+Currently, I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) at TU Berlin. The overarching goal of our work is to identify cost-effective pathways to climate neutrality, leveraging quantitative methods to inform policy and public discourse.
 
-Aside from my research, I enjoy astrophotography, reading about space exploration, related discoveries and just good sci-fi books. I believe in the value of open science, and I try to contribute by sharing my research code, data and teaching materials.
+Beyond work, I enjoy astrophotography, reading about space exploration, new discoveries, and just good sci-fi books. When I am done with research, I will become a space cowboy.

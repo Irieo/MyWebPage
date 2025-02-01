@@ -33,9 +33,9 @@ experience:
     
       Since early 2022, I joined the [ENSYS @ TU Berlin](https://tub-ensys.github.io/) group as a research scientist. We use methods from operations research and mathematical optimization researching the most cost-effective pathways to reduce greenhouse gas emissions in energy systems. Our group maintains the [PyPSA ecosystem](https://pypsa.org/#about) - an open-source python environment for state-of-the-art energy system modelling. 
       
-      In 2022-2024 my work was focused on the [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project, in a collaboration with Google. Project webpage -- [247cfe.github.io](https://irieo.github.io/247cfe.github.io/) -- tracks history of all work we did for this project. This research work is open and reproducible: [github.com/PyPSA/247-cfe](https://github.com/PyPSA/247-cfe)
+      I work on the [RESILIENT research project](https://resilient-project.github.io/), funded by public grants, to advance our capabilities in planning energy systems with resilience at their core. This project builds upon the existing [PyPSA-Eur](https://github.com/pypsa/pypsa-eur) model, enhancing its features and extending it with stochastic modeling capabilities. Our mission is to develop the first truly multi-vector, open-source energy infrastructure planning model that can handle the complexities and uncertainties defining modern energy systems.
 
-      Since Q2 2024, I work on the [RESILIENT](https://resilient-project.github.io/) research project, financed by the public funds. The project aims to improve our abilities to plan energy infrastructure in a resilient way.
+      From 2022 to 2025, a significant part of my work was dedicated to the [24/7 Carbon-Free Energy by 2030](https://sustainability.google/progress/energy/) project in collaboration with Google. This initiative aims to advance the transition to round-the-clock carbon-free electricity. The project webpage—[247cfe.github.io](https://irieo.github.io/247cfe.github.io/)—documents the full history of our work. This research work was fully open and reproducible, with all developments available on GitHub: [github.com/PyPSA/247-cfe](https://github.com/PyPSA/247-cfe).
 
       Aside my research, I contribute to the [Green Deal Ukraїna](https://greendealukraina.org/) project that aims to set up a Think Tank that will provide modelling-based support for Ukrainian governmental institutions, policymakers, and society in rebuilding the Ukrainian economy and energy sector during and after this [terrible war](https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine).
 
@@ -63,8 +63,7 @@ experience:
       
       My PhD supervisor and I developed a study course at BTU, named ‘Energy systems modelling’. The class focuses on the intersection of energy economics, operations research and energy modelling. The course gets usually very warm feedback from students. Some of the teaching materials are available on the [GitHub repository](https://github.com/Irieo/EnergySystemsModelling-course). 
       
-      In Autumn 2019, I did a research stay in a [Sustainable Energy Systems Integration & Transitions Group headed by Dr. Madeleine McPherson at UVIC](https://sesit.cive.uvic.ca/), Victoria BC, Canada. My work there focused on robust optimization algorithms applied to electricity system expansion problems. Victoria BC is simply a fantastic place.
-
+      In Autumn 2019, I did a research stay in the University of Victoria, Canada, where I worked with Prof. Madeleine McPherson. My work there focused on robust optimization algorithms applied to electricity system expansion problems. Victoria BC is simply a fantastic place. 
 design:
   columns: '2'
 ---
