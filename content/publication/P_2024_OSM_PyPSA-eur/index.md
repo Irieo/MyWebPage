@@ -1,9 +1,9 @@
 ---
-title: Modelling the High-Voltage Grid Using Open Data for Europe and Beyond
+title: Modelling the high-voltage grid using open data for Europe and beyond
 
 summary: This paper provides methodology and validation for constructing a representation of the European high-voltage grid, including and above 200 kV, based on public data provided by OpenStreetMap.
 
-abstract: This paper provides the background, methodology and validation for constructing a representation of the European high-voltage grid, including and above 200 kV, based on public data provided by OpenStreetMap. The model-independent grid dataset is published under the Open Data Commons Open Database (ODbL 1.0) licence and can be used for large-scale electricity as well as energy system modelling. The dataset and workflow are provided as part of PyPSA-Eur -- an open-source, sector-coupled optimisation model of the European energy system. By integrating with the codebase for initiatives such as PyPSA-Earth, the value of open and maintainable high-voltage grid data extends to the global context. By accessing the latest data through the the Overpass turbo API, the dataset can be easily reconstructed and updated within minutes. To assess the data quality, this paper further compares the dataset with official statistics and representative model runs using PyPSA-Eur based on different electricity grid representations.
+abstract: This paper provides the background, methodology and validation for constructing a representation of the European high-voltage grid (AC lines from 220 to 750 kV and all DC lines) based on OpenStreetMap data. Grid components include commissioned substations, transmission lines and cables, transformers, and converters as well as technical parameters based on standard types. The data is provided as easy-to-access comma-separated values files which makes it suitable for model-independent, large-scale electricity and energy system modelling. For further ease-of-use, an interactive map is included to enable visual inspection. To assess the data quality, this paper compares the dataset with official statistics and representative model runs using PyPSA-Eur based on different electricity grid representations. The dataset and workflow are provided as part of PyPSA-Eur, an open-source, sector-coupled optimisation model of the European energy system. By integrating with the codebase for initiatives such as PyPSA-Earth, the benefits of this work of this work extend to the global context. The dataset is published under the Open Data Commons Open Database (ODbL 1.0) licence.
 
 authors:
 - Bobby Xiong
@@ -12,8 +12,8 @@ authors:
 - Iegor Riepin
 - Tom Brown
 
-date: "2024-08-30T00:00:00Z"
-publishDate: "2024-08-30"
+date: "2025-02-16T00:00:00Z"
+publishDate: "2025-02-16"
 featured: false
 
 image:
@@ -27,8 +27,8 @@ publication_types:
 - "2"
 
 
-doi:
-url_code:
+doi: https://www.nature.com/articles/s41597-025-04550-7
+url_code: https://github.com/bobbyxng/osm-grid-europe
 url_dataset:
 url_pdf:
 url_preprint: 
