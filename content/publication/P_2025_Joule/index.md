@@ -13,7 +13,7 @@ authors:
 
 date: "2025-01-28T00:00:00Z"
 publishDate: "2025-01-28"
-featured: false
+featured: True
 
 image:
   caption:
@@ -39,6 +39,14 @@ links:
   url: uploads/247Hubtalk_20240521.pdf
 - name: Project website
   url: https://irieo.github.io/247cfe.github.io/
+- name: Results depicted in Forbes
+  url: https://www.forbes.com/sites/johnkostyack/2025/03/04/businesses-and-investors-must-confront-new-federal-climate-edicts/
+- name: TUB PR
+  url: https://www.tu.berlin/news/pressemitteilung/24-7-oekostrom-ansatz-treibt-innovationen-an
+- name: Google PR
+  url: https://www.linkedin.com/feed/update/urn:li:activity:7295805817042141185/
+- name: Op-ed @ Latitude Media
+  url: https://www.latitudemedia.com/news/how-24-7-carbon-free-energy-can-catalyze-clean-energy-innovation/
 # slides:
 ---
 
