@@ -27,7 +27,7 @@ publication_types:
 - "2"
 
 
-doi: https://www.nature.com/articles/s41597-025-04550-7
+doi: 10.1038/s41597-025-04550-7
 url_code: https://github.com/bobbyxng/osm-grid-europe
 url_dataset:
 url_pdf:
