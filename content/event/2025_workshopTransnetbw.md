@@ -1,7 +1,7 @@
 ---
-title: Energy modelling with PyPSA. A workshop for industry stakeholders
+title:  Energy systems modelling workshop for industrial stakeholders (@TransnetBW)
 
-event: A training workshop for industry stakeholders hosted by TransnetBW (RESILIENT project)
+event: PyPSA(-Eur) modelling workshop for industrial stakeholders, co-led with Fabian Neumann. This event was part of a workshop series within the **[RESILIENT](https://resilient-project.github.io/)** project. (~30 participants)
 location: TransnetBW, Stuttgart, Germany
 
 date: '2025-01-27'
