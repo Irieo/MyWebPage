@@ -8,7 +8,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
 title: 'Talks'
 subtitle: 'slides | recordings'
@@ -17,7 +17,7 @@ content:
   # Page type to display. E.g. post, event, publication...
   page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 1
+  count: 3
   # Filter on criteria
   filters:
     author: ""

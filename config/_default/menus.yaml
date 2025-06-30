@@ -23,7 +23,7 @@ main:
   - name: ~/talks
     url: '#talks'
     weight: 40
-  - name: ~/blog
+  - name: ~/space
     url: '#posts'
     weight: 50
   - name: ~/CV

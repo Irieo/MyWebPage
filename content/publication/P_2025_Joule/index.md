@@ -13,7 +13,7 @@ authors:
 
 date: "2025-01-28T00:00:00Z"
 publishDate: "2025-01-28"
-featured: True
+featured: false
 
 image:
   caption:
