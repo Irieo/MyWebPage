@@ -43,6 +43,8 @@ links:
   url: uploads/CoolDataWorkshop_20240220.pdf
 - name: BlueSky thread
   url: https://bsky.app/profile/iriepin.bsky.social/post/3lfmyzekjlc2p
+- name: Bruegel First Glance
+  url: https://www.bruegel.org/first-glance/how-data-centres-can-chase-renewable-energy-across-europe
 # slides:
 ---
 

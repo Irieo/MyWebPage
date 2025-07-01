@@ -8,14 +8,14 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 
-title: 'Talks'
-subtitle: 'slides | code | records'
+title: 'Media'
+subtitle: 'science explainers | opinion pieces'
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: media
   # Choose how many pages you would like to display (0 = all pages)
   count: 3
   # Filter on criteria

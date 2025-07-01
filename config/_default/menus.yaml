@@ -23,6 +23,9 @@ main:
   - name: ~/talks
     url: '#talks'
     weight: 40
+  - name: ~/media
+    url: '#media'
+    weight: 45
   - name: ~/space
     url: '#posts'
     weight: 50
