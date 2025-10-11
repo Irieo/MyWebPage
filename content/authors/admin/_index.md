@@ -49,4 +49,4 @@ Welcome! I am a research scientist specializing in energy economics, energy poli
 
 Currently, I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) at TU Berlin. The overarching goal of our work is to identify cost-effective pathways to climate neutrality, leveraging quantitative methods to inform policy and public discourse.
 
-Beyond work, I enjoy astrophotography, reading about space exploration, new discoveries, and just good sci-fi books. When I am done with research, I will become a space cowboy.
+Beyond work, I enjoy astrophotography, reading about space exploration, new discoveries, and just good sci-fi books.
