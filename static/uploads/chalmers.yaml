@@ -1,0 +1,103 @@
+run:
+  name: "chalmers"
+  disable_progressbar: false
+  shared_resources:
+    policy: true
+
+scenario:
+  clusters: [30]
+  opts: [""]
+  sector_opts: [""]
+  planning_horizons: [2030]
+
+transmission_projects:
+  enable: false
+
+lines:
+  under_construction: remove
+  dynamic_line_rating:
+    activate: false
+
+links:
+  under_construction: remove
+
+countries: ['DE', 'AT', 'BE', 'CZ', 'DK', 'FR', 'LU', 'NL', 'PL', 'CH']
+
+snapshots:
+  start: "2013-04-01"
+  end: "2013-04-05"
+  inclusive: 'left'
+
+costs:
+  year: 2020
+  emission_prices:
+    enable: true
+    co2: 85
+
+electricity:
+  voltages: [220., 300., 330., 380., 400., 500., 750.]
+  base_network: osm
+  estimate_renewable_capacities:
+    year: 2024
+  extendable_carriers:
+    Generator: []
+    Store: []
+  renewable_carriers:
+    - solar
+    - onwind
+    - offwind-ac
+    - hydro
+  conventional_carriers:
+    - nuclear
+    - oil
+    - OCGT
+    - CCGT
+    - coal
+    - lignite
+    - geothermal
+    - biomass
+transmission_limit: v1.0
+powerplants_filter: (DateOut >= 2025 or DateOut != DateOut) and (DateIn <= 2025 or DateIn != DateIn)
+
+clustering:
+  method: kmeans
+  focus_weights:
+    DE: 0.82
+    AT: 0.02
+    CH: 0.02
+    BE: 0.02
+    NL: 0.02
+    FR: 0.02
+    DK: 0.02
+    CZ: 0.02
+    PL: 0.02
+    LU: 0.02
+  temporal:
+    resolution_elec: 10seg
+
+sector:
+  gas_network: false
+  regional_co2_sequestration_potential:
+    enable: false
+  co2_spatial: false
+  co2_network: false
+  biomass_spatial: false
+  biomass_transport: false
+  regional_oil_demand: false
+
+atlite:
+  nprocesses: 12
+
+data:
+  wdpa:
+    source: archive
+    version: latest
+  wdpa_marine:
+    source: archive
+    version: latest
+
+solving:
+  solver_options:
+    gurobi-default:
+      threads: 8
+      BarConvTol: 5.e-5
