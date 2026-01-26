@@ -20,3 +20,12 @@
   [plugins.inputs]
     debug = true
 
+[[headers]]
+  for = "/*.yaml"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+
+[[headers]]
+  for = "/uploads/*.yaml"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
