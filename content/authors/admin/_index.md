@@ -1,26 +1,8 @@
 ---
 bio: My research interests include energy economics, energy policy, operations research, and related programmable matter.
 
-education:
-  courses:
-  - course: PhD in Energy Economics
-    institution: Brandenburg University of Technology
-    year: 2022
-  - course: MSc in Power Engineering
-    institution: Brandenburg University of Technology
-    year: 2014
-  - course: BSc in Power Engineering
-    institution: ZSEA Ukraine
-    year: 2012
 email: ""
 highlight_name: true
-interests:
-- Mathematical models
-- Modelling for insight
-- Operations research
-- Energy economics
-- Energy policy
-
 organizations:
 - name: ENSYS @ TU Berlin
   url: https://tub-ensys.github.io/
@@ -47,6 +29,6 @@ social:
 
 Welcome! I am a research scientist specializing in energy economics, energy policy, operations research, and programmable matter. My work focuses particularly on mathematical models in the energy field---their applications to real-world problems, their limitations, and their impact on decision-making. I believe in the value of open science and try to to contribute by sharing my research code, data, and teaching materials.
 
-Currently, I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) at TU Berlin. The overarching goal of our work is to identify cost-effective pathways to climate neutrality, leveraging quantitative methods to inform policy and public discourse.
+Currently, I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) at TU Berlin. The overarching goal of our work is to identify cost-effective pathways to climate neutrality, leveraging quantitative methods to inform policy and public discourse. Much of our group's effort goes into co-developing and maintaining the [**PyPSA ecosystem**](https://pypsa.org/) — open-source tools for energy system modelling that are widely used in academia, industry, and beyond.
 
 Beyond work, I enjoy astrophotography, reading about space exploration, new discoveries, and just good sci-fi books.
