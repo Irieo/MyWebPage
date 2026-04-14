@@ -18,7 +18,7 @@ authors:
 - Felix Müsgens
 
 date: "2025-01-23T00:00:00Z"
-publishDate: "2025-01-23"
+publishDate: "2026-04-14"
 featured: false
 
 image:
@@ -26,13 +26,13 @@ image:
   focal_point: ""
   preview_only: false
   
-publication: '*arXiv preprint*'
-publication_short: "arXiv"
+publication: '*Applied Energy*'
+publication_short: ""
 publication_types:
-- "3"
+- "2"
 
-doi: https://doi.org/10.48550/arXiv.2507.11361
-url_code: 
+doi: https://doi.org/10.1016/j.apenergy.2026.127671
+url_code: https://github.com/bernemax/ARO_Dunkelflaute_Europe
 url_preprint: https://arxiv.org/abs/2507.11361
 links:
 slides:
