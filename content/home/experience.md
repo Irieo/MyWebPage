@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Co-founder
+    company: PyPSA Labs gGmbH
+    company_url: 'https://pypsalabs.org/'
+    company_logo: 
+    location: Berlin, Germany
+    date_start: '2026-04-01'
+    date_end: ''
+    description: |2-
+      In 2026, I co-founded PyPSA Labs together with [Tom Brown](https://www.linkedin.com/in/tom-brown-226b191a0/), [Fabian Neumann](https://www.linkedin.com/in/fabian-neumann-renewables/), and [Lukas Trippe](https://www.linkedin.com/in/lukas-trippe/). We are a non-profit sustaining the development and maintenance of the [PyPSA framework](https://pypsa.org/) and its wider open-source ecosystem for energy system modelling. We offer technical support subscriptions and training workshops for teams that rely on PyPSA. We also take on modelling studies where our research expertise and open-source approach can make a meaningful contribution. Learn more at [pypsalabs.org](https://pypsalabs.org/).
+
   - title: Postdoctoral researcher
     company: ENSYS @ TU Berlin
     company_url: 'https://tub-ensys.github.io/'
