@@ -23,7 +23,7 @@ publication_short: ""
 publication_types:
 - "4"
 
-doi: https://doi.org/10.5281/zenodo.8185850
+doi: 10.5281/zenodo.8185850
 url_code: https://github.com/PyPSA/247-cfe/releases/tag/v0.3
 url_dataset: 
 url_pdf: https://doi.org/10.5281/zenodo.8185850 

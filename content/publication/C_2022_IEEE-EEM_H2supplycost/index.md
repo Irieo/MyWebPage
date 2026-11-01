@@ -26,14 +26,12 @@ publication_types:
 - "1"
 
 
-doi: https://doi.org/10.1109/EEM54602.2022.9921127
+doi: 10.1109/EEM54602.2022.9921127
 url_code:
 url_dataset:
 url_pdf: 
 url_preprint:
 links: 
-- name: Preprint at ResearchGate
-  url: https://www.researchgate.net/api/literature/privateDownload?publicationUid=nmv24BOAyuXxiXUgkXhmaHkivPk-HywmCueC_qlNmRMsi0WqeeJCSpl3gaYYXMcBag&linkId=eeVpUNZxUeGGC-7Y-U9c98FL3-W2wsAc4UxoolwtSGQ1q4sg3oEcLk8QrBXNyes0YdYUsOksOFbUv78dOsz1Kw&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHVibGljYXRpb24iLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ
 slides: 
 ---
 

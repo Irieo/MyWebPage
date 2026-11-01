@@ -25,7 +25,7 @@ publication_types:
 - "2"
 
 
-doi: https://doi.org/10.1016/j.esr.2025.101724
+doi: 10.1016/j.esr.2025.101724
 url_code:
 url_dataset:
 url_pdf:

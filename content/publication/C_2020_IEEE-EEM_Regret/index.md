@@ -25,7 +25,7 @@ publication_types:
 - "1"
 
 
-doi: https://doi.org/10.1109/EEM49802.2020.9221935
+doi: 10.1109/EEM49802.2020.9221935
 url_code: 
 url_dataset:
 url_pdf: 

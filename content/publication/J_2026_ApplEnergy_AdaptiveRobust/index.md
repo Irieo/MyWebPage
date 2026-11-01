@@ -31,7 +31,7 @@ publication_short: ""
 publication_types:
 - "2"
 
-doi: https://doi.org/10.1016/j.apenergy.2026.127671
+doi: 10.1016/j.apenergy.2026.127671
 url_code: https://github.com/bernemax/ARO_Dunkelflaute_Europe
 url_preprint: https://arxiv.org/abs/2507.11361
 links:

@@ -23,7 +23,7 @@ publication_short: ""
 publication_types:
 - "4"
 
-doi: https://doi.org/10.5281/zenodo.7180097
+doi: 10.5281/zenodo.7180097
 url_code: https://zenodo.org/record/7181236
 url_dataset: 
 url_pdf: 

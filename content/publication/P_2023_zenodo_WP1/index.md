@@ -24,7 +24,7 @@ publication_types:
 - "2"
 
 
-doi: https://doi.org/10.1016/j.esr.2024.101488
+doi: 10.1016/j.esr.2024.101488
 url_code: https://github.com/Irieo/247-procurement-paper
 url_dataset:
 url_pdf: 

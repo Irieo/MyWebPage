@@ -26,7 +26,7 @@ publication_types:
 - "2"
 
 
-doi: https://doi.org/10.1016/j.apenergy.2022.119686
+doi: 10.1016/j.apenergy.2022.119686
 url_code: https://github.com/Irieo/ARO-GasInfrastructure
 url_dataset:
 url_pdf: 

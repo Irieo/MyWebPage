@@ -26,7 +26,7 @@ publication_types:
 - "2"
 
 
-doi: https://doi.org/10.1016/j.eneco.2023.106767
+doi: 10.1016/j.eneco.2023.106767
 url_code: https://github.com/BTU-EnerEcon/RiskAv
 url_dataset:
 url_pdf: 

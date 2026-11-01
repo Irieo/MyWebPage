@@ -25,7 +25,7 @@ publication_types:
 - "1"
 
 
-doi: https://doi.org/10.1109/EEM54602.2022.9921145
+doi: 10.1109/EEM54602.2022.9921145
 url_code: https://github.com/bernemax/ARO-Dunkelflaute
 url_dataset:
 url_pdf: 

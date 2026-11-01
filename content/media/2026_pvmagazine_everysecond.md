@@ -17,7 +17,7 @@ featured: false
 
 links:
 - name: Read Article
-  url: https://www.pv-magazine.com/magazine-archive/every-second-counts/
+  url: https://web.archive.org/web/20260417032900/https://www.pv-magazine.com/magazine-archive/every-second-counts/
   icon_pack: fas
   icon: newspaper
 - name: LinkedIn

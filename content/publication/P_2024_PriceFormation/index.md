@@ -25,7 +25,7 @@ publication_short: ""
 publication_types:
 - "2"
 
-doi: "https://doi.org/10.1016/j.eneco.2025.108483"
+doi: 10.1016/j.eneco.2025.108483
 url_code: "https://github.com/fneum/price-formation"
 url_dataset: ""
 url_pdf: ""

@@ -24,7 +24,7 @@ publication_short: "Environ. Res. Lett."
 publication_types:
 - "2"
 
-doi: https://doi.org/10.1088/1748-9326/ae3846
+doi: 10.1088/1748-9326/ae3846
 url_pdf: https://iopscience.iop.org/article/10.1088/1748-9326/ae3846
 url_code: https://github.com/bobbyxng/pci-pmi-policy-targets
 url_preprint: https://arxiv.org/abs/2507.01860

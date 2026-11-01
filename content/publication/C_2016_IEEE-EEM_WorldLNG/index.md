@@ -25,7 +25,7 @@ publication_types:
 - "1"
 
 
-doi: https://doi.org/10.1109/EEM.2016.7521361
+doi: 10.1109/EEM.2016.7521361
 url_code: 
 url_dataset:
 url_pdf: 

@@ -30,7 +30,7 @@ publication_short: ""
 publication_types:
 - "2"
 
-doi: https://doi.org/10.1016/j.enpol.2022.113000
+doi: 10.1016/j.enpol.2022.113000
 url_code:
 url_dataset: https://zenodo.org/record/6524754
 url_pdf: 

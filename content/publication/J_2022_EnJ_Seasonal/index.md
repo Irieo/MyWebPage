@@ -24,14 +24,12 @@ publication_types:
 - "2"
 
 
-doi: https://doi.org/10.5547/01956574.43.1.irie
+doi: 10.5547/01956574.43.1.irie
 url_code: https://github.com/Irieo/SeasonalFlex 
 url_dataset: https://github.com/Irieo/SeasonalFlex
 url_pdf: 
 url_preprint:
 links:
-- name: Summary 
-  url: www.iaee.org/ej/ejexec/ej43-1-Riepin-exsum.pdf
 - name: Working paper 
   url: https://doi.org/10.17863/CAM.43923
 slides:
