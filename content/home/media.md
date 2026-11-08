@@ -11,7 +11,7 @@ headless: true
 weight: 90
 
 title: 'Media'
-subtitle: 'science explainers | opinion pieces'
+subtitle: 'science explainers | opinion pieces<br>memorable press'
 
 content:
   # Page type to display. E.g. post, event, publication...
