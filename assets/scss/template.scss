@@ -21,3 +21,15 @@
 .see-all a[data-toggle="collapse"].collapsed .when-collapsed {
   display: inline;
 }
+
+// About widget: smaller portrait, lighter icon row
+#profile .avatar {
+  width: 220px;
+  height: 220px;
+}
+#profile .network-icon {
+  margin-top: 20px;
+}
+#profile .big-icon {
+  font-size: 1.6rem;
+}
