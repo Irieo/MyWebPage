@@ -28,8 +28,8 @@ publication_types:
 
 
 doi: 10.1038/s41597-025-04550-7
-url_code: https://github.com/bobbyxng/osm-grid-europe
-url_dataset:
+url_code: https://github.com/pypsa/pypsa-eur
+url_dataset: https://doi.org/10.5281/zenodo.14144752
 url_pdf:
 url_preprint: 
 links:
