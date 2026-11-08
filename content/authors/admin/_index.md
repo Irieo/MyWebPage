@@ -4,13 +4,15 @@ bio: My research interests include energy economics, energy policy, operations r
 email: ""
 highlight_name: true
 organizations:
-- name: ENSYS @ TU Berlin
+- name: Postdoc | ENSYS @ TU Berlin
   url: https://tub-ensys.github.io/
-role: Postdoc researcher
+- name: Co-founder | PyPSA Labs
+  url: https://pypsalabs.org/
+role: ""
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:iegor.riepin@tu-berlin.de"
+  link: "mailto:iegor.riepin@pypsalabs.org"
 - display:
     header: true
 - icon: graduation-cap
@@ -27,8 +29,8 @@ social:
   link: https://iriepin.com/uploads/CV_IRiepin.pdf
 ---
 
-Welcome! I am a research scientist specializing in energy economics, energy policy, operations research, and programmable matter. My work focuses particularly on mathematical models in the energy field---their applications to real-world problems, their limitations, and their impact on decision-making. I believe in the value of open science and try to to contribute by sharing my research code, data, and teaching materials.
+Welcome! I am a research scientist specializing in energy economics, energy policy, operations research, and programmable matter. My work focuses particularly on mathematical models in the energy field---their applications to real-world problems, their limitations, and their impact on decision-making. I believe in the value of open science and try to contribute by sharing my research code, data, and teaching materials.
 
-Currently, I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) at TU Berlin. The overarching goal of our work is to identify cost-effective pathways to climate neutrality, leveraging quantitative methods to inform policy and public discourse. Much of our group's effort goes into development of the [**PyPSA ecosystem**](https://pypsa.org/) — open-source tools for energy system modelling that are widely used in academia, industry, and beyond. In 2026, I co-founded [**PyPSA Labs**](https://pypsalabs.org/), a non-profit securing long-term maintenance and independence for PyPSA.
+I am a postdoctoral researcher at the [**Energy Systems group**](https://www.tu.berlin/en/ensys) at TU Berlin. The overarching goal of our work is to identify cost-effective pathways to climate neutrality, leveraging quantitative methods to inform policy and public discourse. Much of our work goes into the [**PyPSA ecosystem**](https://pypsa.org/), open-source tools for energy system modelling used across academia, industry and governments. In 2026, I co-founded [**PyPSA Labs**](https://pypsalabs.org/).
 
 Beyond work, I enjoy astrophotography, reading about space exploration, new discoveries, and just good sci-fi books.
