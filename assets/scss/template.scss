@@ -12,3 +12,12 @@
 #about .article-style {
   margin-top: 1.5rem;
 }
+
+// Experience widget: toggle label of the collapse link
+.see-all a[data-toggle="collapse"] .when-collapsed,
+.see-all a[data-toggle="collapse"].collapsed .when-expanded {
+  display: none;
+}
+.see-all a[data-toggle="collapse"].collapsed .when-collapsed {
+  display: inline;
+}
